@@ -1,9 +1,9 @@
-# Nikita Veļičko — Junior Web Developer (Laravel / Django / Vue)
+# Nikita Velicko — Junior Web Developer (Laravel / Django / Vue)
 
 I build practical, maintainable web apps with a focus on clean structure and readable code.
 Comfortable delivering core product features: authentication, CRUD, filtering, data export, and REST API integrations.
 
-**Tech:** Laravel/PHP, Django/Python, JavaScript (Vue), HTML/CSS/SCSS, MySQL, Git
+**Tech:** Laravel/PHP, Django/Python, JavaScript (Vue), HTML/CSS/SCSS, MySQL, Git, React.js
 
 ## Featured projects
 - **Inventory System (Laravel)** — auth, CRUD, category filtering, export, action history (audit log)
