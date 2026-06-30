@@ -1,9 +1,9 @@
-# Nikita Velicko — Junior Web Developer (Laravel / Django / Vue)
+# Nikita Velicko — Web Developer (Laravel / Django / Next.js)
 
 I build practical, maintainable web apps with a focus on clean structure and readable code.
 Comfortable delivering core product features: authentication, CRUD, filtering, data export, and REST API integrations.
 
-**Tech:** Laravel/PHP, Django/Python, JavaScript (Vue), HTML/CSS/SCSS, MySQL, Git, React.js
+**Tech:** Laravel/PHP, Django/Python, Next.js/TypeScript, NESTJS/TypeScript, Vue, HTML/CSS/SCSS, MySQL, Git, React.js
 
 ## Featured projects
 - **Inventory System (Laravel)** — auth, CRUD, category filtering, export, action history (audit log)
@@ -15,7 +15,8 @@ Consistent long-term growth: active in sports and 10+ years in music (trumpet & 
 That discipline carries into how I learn, ship features, and improve through feedback.
 
 ## Open to
-Junior Backend (Laravel) / Junior Full-Stack / Junior Frontend (Vue) — Riga or remote
+ Backend / Full-Stack / Frontend / Software Developer / Developer - remote
 
 📫 **Contact:** velicko129@gmail.com  
 LinkedIn: https://www.linkedin.com/in/nikita-velicko-19a371270
+Portfolio: https://www.nikitavelicko.com/
